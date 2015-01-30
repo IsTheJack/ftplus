@@ -1,0 +1,15 @@
+.login {
+	max-width: 512px;
+	margin: 100px auto;
+}
+
+.bubblingG {
+	position: absolute;
+	right: 30px;
+	bottom: 30px;
+}
+
+.bubblingG-hidden
+{
+	display: none;
+}

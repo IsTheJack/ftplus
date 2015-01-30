@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/novaestrutura"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/Todos Projetos no mesmo Gestor/novaEstrutura"
+		}
+	]
+}
